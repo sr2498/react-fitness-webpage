@@ -84,16 +84,6 @@ npm test
 npm run build
 ```
 
-## Future Enhancements
-
-* User Authentication
-* BMI Calculator
-* Workout Planner
-* Diet Recommendation Module
-* Dark Mode
-* Backend Integration using Spring Boot
-* Database Connectivity
-
 ## Author
 
 Sandhya Rani
